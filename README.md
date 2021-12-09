@@ -1,6 +1,8 @@
-# Getting Started with Create React App
+# Rick And Morty Gallery
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+React Webpage for displaying Data fetched from https://rickandmortyapi.com/.
+This is an exercise project from my participation at the neuefische java bootcamp.
+Bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
 
